@@ -1,0 +1,31 @@
+Early Detection and Prevention of Malicious User Behavior on Twitter Using Deep Learning Techniques
+
+
+Early_Detection_and_Prevention
+
+early_detection_and_prevention
+
+
+Detect_Malicious_User
+
+
+IEEE Transactions on Computational Social Systems,Volume:11,Issue:5,Issue Date:October.2024
+
+
+Members
+-------
+
+Fid	
+Age	
+Gender	
+Street	
+City	
+Latitude	
+Longitude	
+Community	
+Followers	
+Retweets	
+Likes	
+Unlikes
+Prediction
+
